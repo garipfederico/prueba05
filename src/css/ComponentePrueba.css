@@ -1,0 +1,11 @@
+.ImagenDelNerd {
+    position: absolute;
+}
+
+.ImagenDelNerd img {
+    position: absolute;
+    width: 90vw;
+    left: 5vw;
+}
+
+

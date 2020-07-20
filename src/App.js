@@ -1,10 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
+import Nerd from './components/ComponentePrueba';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+      <div>
+       <Nerd src={require("./images/nerd.jpeg")}/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
