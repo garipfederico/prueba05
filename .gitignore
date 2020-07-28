@@ -484,3 +484,4 @@ dist
 
 
 # End of https://www.toptal.com/developers/gitignore/api/node,webstorm,webstorm+all,webstorm+iml,jetbrains,jetbrains+iml,jetbrains+all
+/src/images/VistaDetallesDePago.jpg
