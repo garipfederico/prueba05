@@ -2,14 +2,17 @@ import React from 'react';
 import LogoPago from '../images/LogoPagoPlan.GIF'
 import PlanCompleto from '../images/Planes-Completo.png'
 import '../css/styleDDP.css'
+import {Link} from 'react-router-dom'
 
-const DetallesDePago = () => {
+const DetallesDePago = (props) => {
     return(
         <div className="Muestra">
             <div className="divStyle">
                 <p className="whoWeAre">► QUIENES SOMOS</p>
                 <div className="divDetail">
-                    <img className="imagenLogo" src={LogoPago} alt="logo"/>
+                    <Link to={props.link}>
+                        <img className="imagenLogo" src={LogoPago} alt="logo"/>
+                    </Link>
                     <p className="textDetail">Detalles</p>
                     <div className="divTitle">
                         <img className="imagenPlan" src={PlanCompleto} alt="Imagen Plan"/>

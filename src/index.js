@@ -1,11 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-/*import App from './App';*/
+import App from './App';
 import DetallesDePago from './components/DetallesDePago.jsx'
+import ValorFijo from './components/ValorFijo'
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<DetallesDePago/>,document.getElementById('root'));
+ReactDOM.render(
+        <App/>,
+    document.getElementById('root')
+    );
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
