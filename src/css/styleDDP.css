@@ -79,17 +79,23 @@ p
 {
     font-size: 1vw;
     background-color: #F0F0F0;
-    //display: flex;
-    width: 44vw;
+    display: flex;
+    flex-direction: row;
+    width: 43vw;
     height: 30vw;
     float: left;
-    margin: 1vw;
+    margin: .3vw;
+    padding: 1.5vw;
 }
 .divHor
 {
+    display: flex;
+    flex-grow: 1;
     clear: both;
     background-color: #F0F0F0;
-    margin: 1%;
+    margin-left: .3vw;
+    margin-right: .9vw;
+
 }
 .bottom
 {
@@ -120,7 +126,6 @@ p
 .listaPrincipal
 {
     list-style-type: none;
-    padding: 1;
     margin: 0;
 }
 
@@ -131,17 +136,20 @@ p
     background-repeat: no-repeat;
     background-position: 100% .4%;
 
-    padding-right: 10%;
+    padding-right: 5%;
     padding-bottom: 1.5%;
 
     margin-top: 2vw;
     margin-bottom: 2vw;
 
-    max-block-size: 7vw;
-    max-height: 7vw;
+    max-block-size: 8vw;
+    max-height: 8vw;
     max-width: 15vw;
 
     text-align: left;
+
+    display: flex;
+    flex-direction: column;
 }
 .letraChica
 {
