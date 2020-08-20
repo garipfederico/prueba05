@@ -1,6 +1,6 @@
 import React from 'react';
 import LogoPago from '../images/LogoPagoPlan.GIF'
-import PlanCompleto from '../images/Planes-Completo.png'
+import PlanCompleto from '../images/Planes-Completo.svg'
 import '../css/styleDDP.css'
 import {Link} from 'react-router-dom'
 

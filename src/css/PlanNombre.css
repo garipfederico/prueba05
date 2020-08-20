@@ -1,0 +1,21 @@
+#imagenPlan
+{
+    float: left;
+    margin-top: 1%;
+    margin-left: 3%;
+    margin-right: 2%;
+    width: 20vw;
+    height: auto;
+}
+#bordePlanCompleto
+{
+    margin-left: 5%;
+    border-style: solid;
+    border-top-left-radius: 15px;
+    border-color: #F5F5F5;
+}
+#planCompleto
+{
+    font-size: 5vw;
+    color: #404040
+}

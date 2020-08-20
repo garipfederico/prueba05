@@ -11,6 +11,7 @@ class HeaderDetallePago extends React.Component {
                     <p className="whoWeAre">{this.props.textoPrueba}</p>
                     <div className="divDetail">
                         <img className="imagenLogo" src={LogoPago} alt="logo"/>
+
                     </div>
                 </header>
             </div>

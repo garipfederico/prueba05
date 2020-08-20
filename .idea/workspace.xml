@@ -21,11 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="767916af-87d6-4397-81f8-be565d113583" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DetallesDePago.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DetallesDePago.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DetallesDePago.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/styleDDP.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styleDDP.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,7 +56,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../platzi-badges" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,7 +79,10 @@
       <workItem from="1596852023767" duration="20000" />
       <workItem from="1596852064892" duration="54000" />
       <workItem from="1597180560232" duration="701000" />
-      <workItem from="1597343603576" duration="6806000" />
+      <workItem from="1597343603576" duration="7112000" />
+      <workItem from="1597464967869" duration="948000" />
+      <workItem from="1597639974106" duration="305000" />
+      <workItem from="1597950860487" duration="5226000" />
     </task>
     <servers />
   </component>
@@ -96,13 +102,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1595955195328">
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1597954899351">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1595955195328" />
-    <state x="142" y="5" key="SettingsEditor" timestamp="1597351895491">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1597640276915" />
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597954899351" />
+    <state x="213" y="8" key="SettingsEditor" timestamp="1597950952444">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1597351895491" />
+    <state x="213" y="8" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597950952444" />
   </component>
 </project>

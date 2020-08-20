@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import DetallesDePago from './components/DetallesDePago.jsx'
+import DetallesDePago from './components/DetallesDePago.js'
 import ValorFijo from './components/ValorFijo'
 import * as serviceWorker from './serviceWorker';
 
