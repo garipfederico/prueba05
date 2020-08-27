@@ -1,11 +1,13 @@
 import React from "react";
 
+import '../css/Detalle.css'
+
 class Detalle extends React.Component{
     render()
     {
         return(
-            <div>
-                <h1>{this.props.det}</h1>
+            <div id="Detail">
+                <p id="letra">{this.props.det}</p>
 
             </div>
         )

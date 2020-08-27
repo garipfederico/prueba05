@@ -1,0 +1,78 @@
+#flexHor
+{
+    display: flex;
+    margin: .5vw;
+}
+#izquierda
+{
+    background-color: rgb(226, 226, 226);
+    width: 50vw;
+    margin: 0 0 0 1.2vw;
+    padding: 0 2vw 0 1vw;
+    max-width: 50vw;
+    border-top: 2vw solid rgb(226, 226, 226);
+    border-right: 1px solid rgb(191, 25, 23);
+    border-bottom: 2vw solid rgb(226, 226, 226);
+}
+#imagenVisa
+{
+    width: 5vw;
+}
+#entrada
+{
+    font-size: 1vw;
+    margin: 0 0 0 1vw;
+}
+#divEntrada
+{
+    display: inline-flex;
+    align-items: center;
+}
+#derecha
+{
+    background-color: rgb(226, 226, 226);
+    padding: 0 .5vw 0 1vw;
+    margin: 0 1.2vw 0 0;
+    max-width: 50vw;
+}
+#letraPequeña
+{
+    font-size: .7vw;
+    color: #B8B8B8;
+}
+#total
+{
+    text-align: right;
+}
+#boton
+{
+    background-image: url(../images/Planes-tilde.svg);
+    background-repeat: no-repeat;
+    background-position: 5% .4%;
+
+    transition-duration: 0.4s;
+    font-size: 1.5vw;
+    color: #F0F0F0;
+    background-color: rgb(191, 25, 23);
+    border: none;
+    border-radius: 3px;
+    padding: .25vw .5vw .25vw 2.5vw;
+    margin: 0 2vw 2vw 0;
+
+    position: sticky;
+    right: 1vw;
+    bottom: 0;
+}
+#boton:hover
+{
+    background-color: inherit;
+    color: rgb(191, 25, 23);
+}
+#lineaHor
+{
+    border-bottom-color: rgb(191, 25, 23);
+}
+#listaConLinea
+{
+    border-bottom: 1px dashed rgb(191, 25, 23);
+}

@@ -1,0 +1,74 @@
+#flex
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: .5vw;
+}
+ul
+{
+    width: 45vw;
+    margin: inherit;
+    background-color: rgb(226, 226, 226);
+}
+#parrafo
+{
+    background-color: rgb(226, 226, 226);
+    width: 45vw;
+    margin: inherit;
+    padding: 1vw .5vw 1vw .5vw;
+    max-width: 45vw;
+}
+#imagen
+{
+    display: flex;
+    align-self: auto;
+    width: 2vw;
+    height: 2vw;
+    max-width: 2vw;
+    max-height: 2vw;
+}
+#listaConTilde
+{
+    /*background-image: url(../images/Planes-tilde.svg);*/
+    background-size: 7%;
+    background-repeat: no-repeat;
+    background-position: 100% .4%;
+
+    padding-right: 5%;
+    padding-bottom: 1.5%;
+
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+
+    max-block-size: 8vw;
+    max-height: 8vw;
+    max-width: 15vw;
+
+    text-align: left;
+
+    display: flex;
+    flex-direction: column;
+}
+#listaConCruz
+{
+    /*background-image: url(../images/x-button.svg);*/
+    background-size: 7%;
+    background-repeat: no-repeat;
+    background-position: 100% .4%;
+
+    padding-right: 5%;
+    padding-bottom: 1.5%;
+
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+
+    max-block-size: 8vw;
+    max-height: 8vw;
+    max-width: 15vw;
+
+    text-align: left;
+
+    display: flex;
+    flex-direction: column;
+}

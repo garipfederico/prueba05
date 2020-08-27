@@ -21,11 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="767916af-87d6-4397-81f8-be565d113583" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DetallesDePago.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Detalle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Detalle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/styleDDP.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styleDDP.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/PlanNombre.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/PlanNombre.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,7 +83,13 @@
       <workItem from="1597343603576" duration="7112000" />
       <workItem from="1597464967869" duration="948000" />
       <workItem from="1597639974106" duration="305000" />
-      <workItem from="1597950860487" duration="5226000" />
+      <workItem from="1597950860487" duration="6402000" />
+      <workItem from="1598215109913" duration="6979000" />
+      <workItem from="1598281661701" duration="16121000" />
+      <workItem from="1598381863989" duration="9291000" />
+      <workItem from="1598487643084" duration="978000" />
+      <workItem from="1598489487020" duration="6914000" />
+      <workItem from="1598534117998" duration="6974000" />
     </task>
     <servers />
   </component>
@@ -102,6 +109,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="1" key="#Plugins" timestamp="1598489533929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="1" key="#Plugins/0.0.1280.720@0.0.1280.720" timestamp="1598489533929" />
+    <state x="321" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598488022572">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="321" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1598488022571" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1597954899351">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
