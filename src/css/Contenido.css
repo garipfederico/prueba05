@@ -1,9 +1,16 @@
+#subflex
+{
+    background-color: rgb(226, 226, 226);
+    display: flex;
+    flex-flow: column nowrap;
+    width: 18vw;
+    padding: 2vw;
+    margin: 1vw;
+}
 #flex
 {
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: .5vw;
+    margin: 1vw;
 }
 ul
 {
@@ -14,10 +21,10 @@ ul
 #parrafo
 {
     background-color: rgb(226, 226, 226);
-    width: 45vw;
+    width: 50vw;
     margin: inherit;
     padding: 1vw .5vw 1vw .5vw;
-    max-width: 45vw;
+    max-width: 50vw;
 }
 #imagen
 {
@@ -27,6 +34,7 @@ ul
     height: 2vw;
     max-width: 2vw;
     max-height: 2vw;
+    padding: .5vw;
 }
 #listaConTilde
 {

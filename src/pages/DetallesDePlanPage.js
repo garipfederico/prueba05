@@ -26,7 +26,7 @@ class DetallesDePlanPage extends React.Component
                     Listado = {MatrizContenido}
                      */
                     Listado={["Item 1", "Item 2", "Item 3", "Item 4"]}
-                    Banderas={[true, false, true, false]}
+                    Banderas={[true, true, true, true]}
                 />
                 <Horizontal
                     desc1={d1}
