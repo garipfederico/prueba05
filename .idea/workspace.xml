@@ -21,12 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="767916af-87d6-4397-81f8-be565d113583" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Detalle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Detalle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/PlanNombre.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/PlanNombre.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contenido.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contenido.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Horizontal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Horizontal.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../platzi-badges" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -65,7 +61,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,7 +85,12 @@
       <workItem from="1598381863989" duration="9291000" />
       <workItem from="1598487643084" duration="978000" />
       <workItem from="1598489487020" duration="6914000" />
-      <workItem from="1598534117998" duration="6974000" />
+      <workItem from="1598534117998" duration="7726000" />
+      <workItem from="1598648146710" duration="10192000" />
+      <workItem from="1598913982584" duration="1760000" />
+      <workItem from="1598916115262" duration="17000" />
+      <workItem from="1598916213509" duration="3520000" />
+      <workItem from="1598974162937" duration="971000" />
     </task>
     <servers />
   </component>
@@ -117,15 +118,19 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="321" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1598488022571" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1597954899351">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1598915720703">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1597640276915" />
+    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1598915720703" />
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597954899351" />
-    <state x="213" y="8" key="SettingsEditor" timestamp="1597950952444">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="463" y="63" key="RollbackChangesDialog" timestamp="1598669717552">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1597351895491" />
+    <state x="463" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1598669717552" />
+    <state x="142" y="5" key="SettingsEditor" timestamp="1598914990510">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1598914990510" />
     <state x="213" y="8" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597950952444" />
   </component>
 </project>

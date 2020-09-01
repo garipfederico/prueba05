@@ -44,6 +44,11 @@
 {
     text-align: right;
 }
+button
+{
+    display: flex;
+    flex-flow:row nowrap;
+}
 #boton
 {
     background-image: url(../images/Planes-tilde.svg);
@@ -57,11 +62,7 @@
     border: none;
     border-radius: 3px;
     padding: .25vw .5vw .25vw 2.5vw;
-    margin: 0 2vw 2vw 0;
-
-    position: sticky;
-    right: 1vw;
-    bottom: 0;
+    margin: 11vw 2vw 2vw 41vw;
 }
 #boton:hover
 {
