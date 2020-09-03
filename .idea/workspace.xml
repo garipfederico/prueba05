@@ -21,9 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="767916af-87d6-4397-81f8-be565d113583" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contenido.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contenido.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Contenido.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Contenido.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ValorFijo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ValorFijo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,10 @@
       <workItem from="1598913982584" duration="1760000" />
       <workItem from="1598916115262" duration="17000" />
       <workItem from="1598916213509" duration="3520000" />
-      <workItem from="1598974162937" duration="3442000" />
+      <workItem from="1598974162937" duration="4084000" />
+      <workItem from="1599017936968" duration="630000" />
+      <workItem from="1599081939383" duration="1063000" />
+      <workItem from="1599161534474" duration="3691000" />
     </task>
     <servers />
   </component>
@@ -119,10 +122,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="321" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1598488022571" />
-    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1598915720703">
+    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1599017962622">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1598915720703" />
+    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1599017962622" />
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597954899351" />
     <state x="463" y="63" key="RollbackChangesDialog" timestamp="1598669717552">
       <screen x="0" y="0" width="1280" height="720" />
