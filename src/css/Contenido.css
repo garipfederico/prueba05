@@ -5,12 +5,12 @@
     flex-flow: column nowrap;
     width: 18vw;
     padding: 2vw;
-    margin: 1vw;
+    margin: .5vw .25vh .05vw 3vh;
 }
 #flex
 {
     display: flex;
-    margin: 1vw;
+    margin: .5vw 1vh .05vw .25vh;
 }
 ul
 {

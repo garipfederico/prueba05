@@ -21,9 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="767916af-87d6-4397-81f8-be565d113583" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ValorFijo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ValorFijo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Horizontal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Horizontal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Contenido.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Contenido.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Horizontal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Horizontal.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proyecto_personal" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -94,7 +96,13 @@
       <workItem from="1598974162937" duration="4084000" />
       <workItem from="1599017936968" duration="630000" />
       <workItem from="1599081939383" duration="1063000" />
-      <workItem from="1599161534474" duration="3691000" />
+      <workItem from="1599161534474" duration="4996000" />
+      <workItem from="1599182702142" duration="200000" />
+      <workItem from="1599363177477" duration="14000" />
+      <workItem from="1599586633021" duration="3086000" />
+      <workItem from="1599617828259" duration="622000" />
+      <workItem from="1600314996616" duration="45000" />
+      <workItem from="1600801863895" duration="6794000" />
     </task>
     <servers />
   </component>
@@ -114,6 +122,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="267" y="39" key="#Inspections" timestamp="1600806722154">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="267" y="39" key="#Inspections/0.0.1280.720@0.0.1280.720" timestamp="1600806722154" />
     <state x="233" y="1" key="#Plugins" timestamp="1598489533929">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -122,15 +134,15 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="321" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1598488022571" />
-    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1599017962622">
+    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1600808405630">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1599017962622" />
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597954899351" />
-    <state x="463" y="63" key="RollbackChangesDialog" timestamp="1598669717552">
+    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600808405630" />
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599180779422" />
+    <state x="463" y="63" key="RollbackChangesDialog" timestamp="1600807898684">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="463" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1598669717552" />
+    <state x="463" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1600807898684" />
     <state x="142" y="5" key="SettingsEditor" timestamp="1598914990510">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
