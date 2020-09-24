@@ -3,6 +3,29 @@ import '../css/Horizontal.css'
 import visa from '../images/Old_Visa_Logo.svg'
 import {useFormik} from "formik";
 
+const validate = values =>
+{
+    const errors = {};
+    if (!values.card)
+    {
+        errors.card = 'Requerido';
+    }
+    else if (values.card.length < 13)
+    {
+        errors.card = 'Debe tener 13 caracteres o más'
+    }
+    else if (values.card.length > 19)
+    {
+        errors.card = 'Debe tener 19 caracteres o menos'
+    }
+    else if (!/^[0-9]*$/i.test(values.card))
+    {
+        errors.card = 'Los datos ingresados no son válidos'
+    }
+
+    return errors;
+};
+
 const SignupForm = () =>
 {
     const formik = useFormik({
@@ -10,6 +33,7 @@ const SignupForm = () =>
             {
                 card: '',
             },
+        validate,
         onSummit: values =>
         {
             alert(JSON.stringify(values, null, 2))
@@ -23,6 +47,7 @@ const SignupForm = () =>
 
                 <div id="divEntrada">
                     <form onSubmit={formik.handleSubmit}>
+                        {formik.errors.card ? <div><div className="error-phrase">{formik.errors.card}</div><div className="bubble-triangle">{null}</div></div>:<div style={{padding:".95vw"}}>{null}</div>}
                         <img src={visa} id="imagenVisa" alt="Imagen Visa"/>
                         <input
                             id="entrada"
