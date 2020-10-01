@@ -1,0 +1,21 @@
+<svg id="bf39aa9a-a022-4f4b-9ce6-a3fb581a6ff4" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71.47 71.84">
+  <defs>
+    <style>
+      .fa94f55b-4ccb-4e22-a04e-637e7e6ba69a {
+        fill: #fff;
+      }
+
+      .ffc33181-e25c-44fa-ab02-ce539823e30f {
+        fill: #e20e17;
+        stroke: #e20e17;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <ellipse class="fa94f55b-4ccb-4e22-a04e-637e7e6ba69a" cx="35.73" cy="35.92" rx="35.73" ry="35.92"/>
+  <line class="ffc33181-e25c-44fa-ab02-ce539823e30f" x1="19.88" y1="35.92" x2="48.78" y2="35.92"/>
+  <line class="ffc33181-e25c-44fa-ab02-ce539823e30f" x1="38.56" y1="25.65" x2="48.78" y2="35.92"/>
+  <line class="ffc33181-e25c-44fa-ab02-ce539823e30f" x1="48.78" y1="35.92" x2="38.56" y2="46.2"/>
+</svg>

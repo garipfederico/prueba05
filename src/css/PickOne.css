@@ -1,0 +1,66 @@
+.container
+{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    /*padding-left: 35px;*/
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.container input/*Escondiendo el radio button por defecto*/
+{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+.checkmark/*Creando el fondo de un boton custom*/
+{
+    position: center;
+    top: auto;
+    left: auto;
+    height: 25px;
+    width: 6vw;
+    background-color: #eee;
+    border-radius: 0;
+    transition: .5s;
+}
+/*.container:hover input ~ .checkmark !*Añadiendo un efecto gris cuando el mouse pasa por encima*!*/
+/*{*/
+/*    background-color: #ccc;*/
+/*}*/
+.container input:checked ~ .checkmark /*Cuando está seleccionado añade color rojo*/
+{
+    position: center;
+    background-color: #ea0000;
+    border-radius: 5%;
+    width: 6vw;
+}
+.content
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*position: absolute;*/
+    top: 1.5vw;
+}
+.content p
+{
+    font-size: .55vw;
+}
+#pickOne-div
+{
+    display: flex;
+    align-items: baseline;
+    margin-left: 4vw;
+}
+#pickOne-div-radius
+{
+    display: inline-flex;
+    width: auto;
+    margin: 1vw;
+}
