@@ -1,4 +1,5 @@
 import React from 'react';
+import '../css/Input.css'
 
 class Input extends React.Component
 {
@@ -6,11 +7,11 @@ class Input extends React.Component
     {
         const message = this.props.message
         return(
-            <form>
-                <label style={{margin: "0 1vw 0 4vw"}}>
-                    {message}
+            <form className="input-form">
+                <label className="input-label">
+                    <p>{message}</p>
                 </label>
-                <input/>
+                <input className="input-input"/>
             </form>
         )
     }

@@ -18,7 +18,7 @@ class PickOne extends React.Component
         );
 
         return(
-            <form>
+            <form id="main-form">
                 <div id="pickOne-div">
                     <label>
                         {message}

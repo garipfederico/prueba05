@@ -1,3 +1,10 @@
+#main-form
+{
+    display:flex;
+    justify-content: center;
+    margin-left: 4vw;
+    padding: 0 13vw .3vw 1vw;
+}
 .container
 {
     display: flex;
@@ -64,3 +71,11 @@
     width: auto;
     margin: 1vw;
 }
+@media(max-width: 320px) /*Less than S Size*/ {}
+@media(min-width: 320px) /*S Size*/ {}
+@media(min-width: 375px) /*M Size*/{}
+@media(min-width: 425px) /*L Size*/ {}
+@media(min-width: 768px) /*Tablet Size*/{}
+@media(min-width: 1024px) /*Laptop Size*/ {}
+@media(min-width: 1440px) /*Laptop L Size*/ {}
+@media(min-width: 2560px) /*4K*/ {}

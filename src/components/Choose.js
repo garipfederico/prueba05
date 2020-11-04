@@ -17,9 +17,9 @@ class Choose extends React.Component
         return(
             <form id="choose-form">
                 <label id="choose-label">
-                    {message}
+                    <p>{message}</p>
                 </label>
-                <select>
+                <select id="choose-select">
                     {listItems}
                 </select>
             </form>

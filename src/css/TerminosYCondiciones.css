@@ -1,0 +1,48 @@
+.tyc-main
+{
+    margin-left: 8vw;
+    display: grid;
+    grid-template-columns: 80vw;
+    grid-template-rows: 10vh 30vh 10vh;
+    grid-gap: 70px 4vw;
+}
+.tyc-main form div textarea
+{
+    display: inline;
+    margin: .5vw 0 0 4vw;
+    height: 40vh;
+    width: 80vw;
+    overflow: auto;
+    background-color: rgb(222, 222, 222);
+    border-style: none;
+    border-radius: 15px;
+    padding: 15px;
+    resize: none;
+
+    grid-column: 1/3;
+}
+.tyc-main form div textarea:focus
+{
+    outline: none;
+}
+.tyc-main form div textarea::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: rgb(128, 128, 128);
+    border-radius: 10px;
+}
+
+.tyc-main form div textarea::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgb(99, 99, 99);
+    background-color: rgb(78, 78, 78);
+}
+.tyc-main form div p
+{
+    margin-left: 4vw;
+}
+.tyc-main form div label
+{
+    margin-left: 4vw;
+}

@@ -20,10 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="767916af-87d6-4397-81f8-be565d113583" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderDetallePago.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetallesDePlanPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Choose.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Choose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormularioDeRegistro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormularioDeRegistro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PickOne.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PickOne.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Choose.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Choose.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/FormularioDeRegistro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/PickOne.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/PickOne.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ekart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,7 +68,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="aws" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -105,7 +112,18 @@
       <workItem from="1600974540759" duration="6294000" />
       <workItem from="1601402199597" duration="8411000" />
       <workItem from="1601423335047" duration="4031000" />
-      <workItem from="1601514757266" duration="7564000" />
+      <workItem from="1601514757266" duration="7659000" />
+      <workItem from="1601578241350" duration="8140000" />
+      <workItem from="1601681039621" duration="220000" />
+      <workItem from="1601696007687" duration="2561000" />
+      <workItem from="1602010790148" duration="92000" />
+      <workItem from="1602010978594" duration="8892000" />
+      <workItem from="1602186029337" duration="5230000" />
+      <workItem from="1602461201494" duration="143000" />
+      <workItem from="1602788065598" duration="9345000" />
+      <workItem from="1604358647957" duration="41000" />
+      <workItem from="1604358712303" duration="571000" />
+      <workItem from="1604414279087" duration="8313000" />
     </task>
     <servers />
   </component>
@@ -137,27 +155,39 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="321" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1598488022571" />
-    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1600894843601">
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604444114348">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600894843601" />
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1604444114348" />
+    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1602814237023">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1602814237023" />
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599180779422" />
     <state x="463" y="63" key="RollbackChangesDialog" timestamp="1600807898684">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="463" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1600807898684" />
-    <state x="142" y="5" key="SettingsEditor" timestamp="1598914990510">
+    <state x="142" y="5" key="SettingsEditor" timestamp="1602186368143">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1598914990510" />
+    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1602186368143" />
     <state x="213" y="8" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597950952444" />
-    <state x="297" y="161" key="run.anything.popup" timestamp="1600985030374">
+    <state x="512" y="205" key="cloudConfig.SelfSettingsDialog" timestamp="1604358671313">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1600985030374" />
+    <state x="512" y="205" key="cloudConfig.SelfSettingsDialog/0.0.1280.720@0.0.1280.720" timestamp="1604358671313" />
+    <state x="297" y="161" key="run.anything.popup" timestamp="1602790392117">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1602790392117" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600978291373">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1600978291373" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

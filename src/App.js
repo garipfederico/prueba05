@@ -10,7 +10,7 @@ import model from './components/DetallesDePago.js'
 function App() {
   return (
       <BrowserRouter>
-            <Redirect to="/registro"/>
+            {/*<Redirect to="/registro"/>*/}
         <Switch>
             <Route path="/home" component={DetallesDePago}/>
             <Route path="/valorFijo" component={ValorFijo}/>
