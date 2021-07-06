@@ -4,6 +4,7 @@ import Detail from "../components/Detalle"
 import PlanNombre from "../components/PlanNombre"
 import Contenido from "../components/Contenido"
 import Horizontal from "../components/Horizontal"
+import Logo from "../images/LogoPagoPlan.GIF";
 
 
 class DetallesDePlanPage extends React.Component
@@ -18,7 +19,7 @@ class DetallesDePlanPage extends React.Component
 
         return(
             <div>
-                <Header textoPrueba={"► Quienes somos..."}/>
+                <Header Logo={Logo}/>
                 <Detail det={"Detalles"}/>
                 <PlanNombre/>
                 <Contenido
